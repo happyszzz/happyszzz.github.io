@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://happyszzz.github.io</id>
     <title>Gridea</title>
-    <updated>2020-12-02T12:03:50.150Z</updated>
+    <updated>2020-12-02T12:14:32.172Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://happyszzz.github.io"/>
     <link rel="self" href="https://happyszzz.github.io/atom.xml"/>
@@ -10,16 +10,6 @@
     <logo>https://happyszzz.github.io/images/avatar.png</logo>
     <icon>https://happyszzz.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Gridea</rights>
-    <entry>
-        <title type="html"><![CDATA[哈哈哈]]></title>
-        <id>https://happyszzz.github.io/post/ha-ha-ha/</id>
-        <link href="https://happyszzz.github.io/post/ha-ha-ha/">
-        </link>
-        <updated>2020-12-02T12:01:52.000Z</updated>
-        <content type="html"><![CDATA[<p>欢迎来到我的小站<br>
-<img src="https://raw.githubusercontent.com/happyszzz/img_picGo/master/img/EUlXcI3U0AQ49qS.jfif" alt="" loading="lazy"></p>
-]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://happyszzz.github.io/post/hello-gridea/</id>
